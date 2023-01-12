@@ -1,0 +1,5 @@
+{
+  "name": "kafka-docker",
+  "private": true,
+  "dependencies": {}
+}
